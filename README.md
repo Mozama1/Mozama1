@@ -1,5 +1,5 @@
 # 💫 About Me:
- I'm Mozama Razman, a Junior Frontend Developer,I enjoy turning ideas into clean, responsive, and interactive web experiences. I'm good in HTML, CSS, and JavaScript, and have hands-on experience with several frontend frameworks and libraries. I'm currently in my learning phase, continuously improving my skills and exploring modern web technologies.
+ I'm Mozama Razman, a Junior Frontend Developer,I enjoy turning ideas into responsive and interactive web experience. I'm good in HTML, CSS, and JavaScript, and have hands-on experience with several frontend frameworks and libraries. I'm currently in my learning phase, continuously improving my skills and exploring modern web technologies.
 I recently completed an internship as a Frontend Developer, which helped me gain practical experience.<br>
 
 
