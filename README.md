@@ -14,7 +14,8 @@ I recently completed an internship as a Frontend Developer, which helped me gain
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mozama1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+In programming the hard part isn’t solving problems, but deciding what problems to solve.
+- Paul Graham (programmer)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mozama1&limit=5&theme=dark&combine_all_yearly_contributions=true)
